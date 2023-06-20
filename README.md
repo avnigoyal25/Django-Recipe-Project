@@ -10,3 +10,6 @@ To run this project on your local device:
 4) Run using command: python manage.py runserver
 
 ![Screenshot (112)](https://github.com/avnigoyal25/Django-Recipe-Project/assets/91952706/3c1c4e68-9e8f-432c-ae4a-71fded88f375)
+
+
+Deployed link of the project- https://django-recipe-project-74y1.vercel.app/
